@@ -16,7 +16,6 @@ Rectangulo::Rectangulo() {
 }
 
 float Rectangulo::area() {
-	std::cout << "Llamada la función area() de Rectangulo" << std::endl;
 	return ancho*alto;
 }
 
