@@ -20,5 +20,9 @@ float Rectangulo::area() {
 	return ancho*alto;
 }
 
+float Rectangulo::volumen() {
+	return 7;
+}
+
 } /* namespace ejemplos */
 
